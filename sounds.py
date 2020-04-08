@@ -1,4 +1,8 @@
 import pygame.mixer
 print('hhh')
 import alien_invasion
-print('hjhh')
+
+
+print('test2')
+print('test3')
+print('test4')
